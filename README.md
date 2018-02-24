@@ -2,10 +2,17 @@
 
 Personally, I have come across a lot of errors when developing applications with Laravel. Most of the errors reoccurs during development. So I thought of the need to create this repo.
 
-##Common Errors / Exception
+
+## Common Errors / Exception
+
 1. Class "User" not found
 
-> Write the use Full\Namespace\To\Class; (Example use App\User;) at the top of the file (also known as import class in PHPStorm when you click on the yellow light bulb).
+> Write the use Full\Namespace\To\Class; 
+  (Example use App\User;) at the top of the file (also known as import class in PHPStorm when you click on the yellow light bulb).
+
+2. Class 'App\Http\Controllers\Auth
+
+> include `use Illuminate\Support\Facades\Auth` at the top of class.
 
 
 
