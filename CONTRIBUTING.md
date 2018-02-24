@@ -10,6 +10,6 @@ The format to follow when submitting a pull request is as follow :
 
 Feel free to suggest more than one solution for an error, for as long as its neat and works.
 
-To keep things well arranged, use the format found on the README.md
+To keep things well arranged, use the format found on [Here](https://github.com/yemiwebby/most-common-laravel-errors#common-errors--exception)
 
 
